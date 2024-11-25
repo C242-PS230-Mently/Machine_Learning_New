@@ -81,8 +81,5 @@ for column in y.columns:
 # Simpan seluruh model TensorFlow dan Random Forest dalam satu file
 joblib.dump(rf_models, 'rf_models_all_labels_V2.pkl')
 
-# # Simpan seluruh model TensorFlow dalam satu file
-# for column, model in tensorflow_models.items():
-#     model.save(f'tf_model_{column}.h5')
 
 print("Seluruh model disimpan dengan sukses!")

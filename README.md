@@ -7,6 +7,7 @@ This is the main repository for the final machine learning model to classify str
 3. Bipolar
 4. Schizophrenia
 5. OCD
+
 ## Overview
 By using machine learning models, it will be easier to determine a person's stress level without the need to use the usual if-else logic again. and also this model will be very helpful for future updates. Users can also view their stress levels ranging from Low, Medium, and High.
 
