@@ -34,10 +34,10 @@ pip install -r requirements.txt
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/C242-PS230-Mently/MachineLearning.git 
+git clone https://github.com/C242-PS230-Mently/Machine_Learning_New.git
 
 # Change directory
-cd MachineLearning # change with your folder name
+cd Machine_Learning_New # change with your folder name
 
 # Install dependencies
 pip install -r requirements.txt
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 In the process of making this model, there are several stages that are carried out and the use of the required data.
 
 ### Data Preparation
-Prepare the dataset in a CSV file with the following structure:
+Prepare the dataset in a CSV file (Data_Seluruh_Gangguan.csv) with the following structure:
 Columns:
 Q1 to Q25 (Answers to questions)
 Level Anxiety, Level Depression, Level Bipolar, Level Schizophrenia, Level OCD (Target labels)
